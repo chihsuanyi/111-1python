@@ -8,7 +8,7 @@
 
 ## 課程筆記區
 
-- [0915練習題](https://github.com/chihsuanyi/Python/blob/main/0915.ipynb)
+- [0915練習題](https://github.com/chihsuanyi/Python/blob/main/0915%E7%B7%B4%E7%BF%92.ipynb)
 
 ## 作業連結區
 ## 專題連結區
