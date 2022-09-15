@@ -7,5 +7,8 @@
 - Email：hsuanyi0401@gmail.com
 
 ## 課程筆記區
+
+- [練習一](https://github.com/chihsuanyi/Python/blob/main/0915.ipynb)
+
 ## 作業連結區
 ## 專題連結區
