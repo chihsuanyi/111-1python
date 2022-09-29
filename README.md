@@ -12,4 +12,5 @@
 - [0922 練習題](https://github.com/chihsuanyi/Python/blob/main/0922練習.ipynb)
 - [0929 dic練習](https://github.com/chihsuanyi/Python/blob/main/0929%20dictionary.ipynb)
 ## 作業連結區
+- [HW1](https://github.com/chihsuanyi/Python/blob/main/HW1.ipynb)
 ## 專題連結區
