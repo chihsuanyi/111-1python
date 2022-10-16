@@ -1,0 +1,500 @@
+{
+ "cwbopendata": {
+  "@xmlns": "urn:cwb:gov:tw:cwbcommon:0.1",
+  "identifier": "dc71c5d0-4b90-11ed-8cb9-0242ac110002",
+  "sender": "weather@cwb.gov.tw",
+  "sent": "2022-10-14T15:21:46+08:00",
+  "status": "Actual",
+  "msgType": "Issue",
+  "dataid": "A0013-003",
+  "scope": "Public",
+  "dataset": {
+   "weatherElement": [
+    {
+     "elementName": "平均氣溫機率預報",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "40:50:10",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "30:50:20",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "30:50:20",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "40:50:10",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "20:50:30",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "20:60:20",
+          "measures": "%"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "elementName": "平均氣溫氣候正常值範圍",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "23.4~24.5",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "23.0~24.2",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "23.2~23.7",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "24.6~25.8",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "24.2~25.0",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "24.1~24.7",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "25.4~26.6",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "25.0~25.8",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "24.9~25.4",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "24.2~25.0",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "23.8~24.6",
+          "measures": "攝氏"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "23.6~24.3",
+          "measures": "攝氏"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "elementName": "雨量機率預報",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "0:40:60",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "10:60:30",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "0:50:50",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "0:60:40",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "0:50:50",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "0:60:40",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "0:30:70",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "10:50:40",
+          "measures": "%"
+         }
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "elementName": "雨量氣候正常值範圍",
+     "location": [
+      {
+       "locationName": "北部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "1.8~21.6",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "2.0~12.5",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "30.5~78.6",
+          "measures": "mm"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "中部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "0.0~0.2",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "0.0~0.0",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "0.8~8.0",
+          "measures": "mm"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "南部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "0.0~0.0",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "0.0~0.0",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "0.2~6.8",
+          "measures": "mm"
+         }
+        }
+       ]
+      },
+      {
+       "locationName": "東部",
+       "time": [
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/10/21",
+         "elementValue": {
+          "value": "4.0~36.5",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/22",
+         "endTime": "2022/10/28",
+         "elementValue": {
+          "value": "2.3~16.8",
+          "measures": "mm"
+         }
+        },
+        {
+         "startTime": "2022/10/15",
+         "endTime": "2022/11/11",
+         "elementValue": {
+          "value": "89.3~229.8",
+          "measures": "mm"
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
