@@ -14,5 +14,5 @@
 - [0929 練習題](https://github.com/chihsuanyi/Python/blob/main/0929%20%E7%B7%B4%E7%BF%92.ipynb)
 ## 作業連結區
 - [HW1](https://github.com/chihsuanyi/Python/tree/main/HW1) 交集、聯集、差集、對稱差集
-- [HW2](https://github.com/chihsuanyi/Python/tree/main/HW2) json資料
+- [HW2](https://github.com/chihsuanyi/Python/tree/main/HW2) json檔案資料整理
 ## 專題連結區
