@@ -15,4 +15,5 @@
 ## 作業連結區
 - [HW1](https://github.com/chihsuanyi/Python/tree/main/HW1) 交集、聯集、差集、對稱差集
 - [HW2](https://github.com/chihsuanyi/Python/tree/main/HW2) json檔案資料整理
+- [HW3](https://github.com/chihsuanyi/Python/blob/main/HW3.ipynb) 爬蟲
 ## 專題連結區
