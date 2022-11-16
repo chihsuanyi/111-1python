@@ -16,4 +16,5 @@
 - [HW1](https://github.com/chihsuanyi/Python/tree/main/HW1) 交集、聯集、差集、對稱差集
 - [HW2](https://github.com/chihsuanyi/Python/tree/main/HW2) json檔案資料整理
 - [HW3](https://github.com/chihsuanyi/Python/blob/main/HW3.ipynb) 爬蟲
+- [HW4](https://medium.com/@Hsuanyi_96151/python%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E9%9B%BB%E5%BD%B1%E8%A9%95%E5%83%B9-fd0ed951dfd2)文字探勘
 ## 專題連結區
